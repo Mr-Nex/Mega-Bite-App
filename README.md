@@ -6,6 +6,6 @@ Created in Android Studio, written in java, xml, sqlite, etc.<br /> With some fu
 - **Recycler View**
 - **Collapsing Toolbar Layout**
 - **Splash Screen**, etc.<br /><br />
-For Back-end
+Back-end with -
 - **Firebase**
 - **SQLite**
